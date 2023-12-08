@@ -1,5 +1,5 @@
 
-[![An old rock in the desert](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630 "Probesg Deb Nath || MERN Stack Web Developer")](https://facebook.com/probeshdebnath20)
+[![An old rock in the desert](https://raw.githubusercontent.com/probeshnath/probeshnath/main/assests/probesh-nath-mern-developer.jpg "Probesg Deb Nath || MERN Stack Web Developer")](https://facebook.com/probeshdebnath20)
 
 
 ## Current overview
